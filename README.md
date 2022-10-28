@@ -2,8 +2,8 @@
 ## phase-4-project-video
  
 
-Deployed and available to view here:
+Video deployed and available to view here:
 https://readlang.github.io/phase-4-project-video/
 
-Video is a walkthru of project available here:
+Project code and other info available here:
 https://github.com/readlang/neighborhood-exchange
